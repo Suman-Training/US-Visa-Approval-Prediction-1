@@ -10,3 +10,11 @@ git push origin main
 python -m venv venv
 
 venv\Scripts\activate
+
+
+1. constants
+2. config entity
+3. artifact entity
+4. component
+5. pipeline
+6. app.py/demo.py
